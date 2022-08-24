@@ -63,8 +63,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "BitBag\\SyliusCmsPlugin\\": "src/",
-            "Tests\\BitBag\\SyliusCmsPlugin\\": "tests/"
+            "BitBag\\SyliusCmsPlugin\\": "src/"
         }
     },
     "autoload-dev": {
